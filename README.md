@@ -1,1 +1,1 @@
-# openai-plugins
+# chatgpt-plugins
